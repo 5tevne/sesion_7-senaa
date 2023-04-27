@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/39/30/71/3930718b1a502e817e79c80f03339f7f--angel-wallpaper-feather-wallpaper.jpg);
+    background-repeat:repeat;
+    background-size: 2200px;
+}
+table{background-color: rgba(0, 0, 0, 0.377);
+}
+td{
+    font-family: 'Tourney', cursive;
+    color: white;
+}
+input{
+    background-color: rgba(0, 255, 255, 0.342);
+    font-family: 'Tourney', cursive;
+    color: rgb(204, 204, 204);
+    border-bottom: 36%;
+    border-radius: 5%;
+    border-width: 6px;
+
+}

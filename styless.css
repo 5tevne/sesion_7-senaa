@@ -1,0 +1,25 @@
+h1,h2,h3{
+    font-family: 'Bungee Spice', cursive;
+}
+li{
+    font-family: 'Tourney', cursive;
+   background-position-x: center;
+   text-align: center; 
+   font-variant-numeric: normal; 
+   color: rgb(255, 8, 8); 
+   background-color: rgba(184, 218, 218, 0.288);
+}
+body {
+    background-image: url(https://i.pinimg.com/originals/a4/71/31/a4713167a9a9ea6e46d83e9e07a1dc23.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+    background-color: rgba(0, 255, 255, 0.342);
+    font-family: 'Tourney', cursive;
+    color: rgb(204, 204, 204);
+    border-bottom: 36%;
+    border-radius: 5%;
+    border-width: 6px;
+
+}
